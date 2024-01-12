@@ -1,4 +1,4 @@
-#Proyecto Piedra - Papel - Tijera
+# Proyecto Piedra - Papel - Tijera
 
 Este proyecto consta de una carpeta "doc" que contiene la tabla del entorno de tareas, la imagen del agente, y la explicación del programa RPS y un pequeño archivo con la información adicional que lleva el programa RPSLS.
 
